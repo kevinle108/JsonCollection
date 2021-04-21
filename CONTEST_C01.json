@@ -1,37 +1,37 @@
 {
-  "ContestName": "PLANNING AND ZONING COMMISSION",
+  "ContestName": "BOARD OF FINANCE",
   "MaxChoices": 4,
   "WriteIn": true,
   "Candidates": [
     {
       "CandidateCode": "1",
-      "CandidateName": "GEORGE WASHINGTON",
+      "CandidateName": "BABE RUTH",
       "CandidateParty": "R"
     },
     {
       "CandidateCode": "2",
-      "CandidateName": "CLARA BARTON",
+      "CandidateName": "JIM THORPE",
       "CandidateParty": "R"
     },
     {
       "CandidateCode": "3",
-      "CandidateName": "ARTHUR ASH",
+      "CandidateName": "PETE MARAVICH",
       "CandidateParty": "R"
     },
     {
       "CandidateCode": "4",
-      "CandidateName": "FRANKLIN PIERCE",
+      "CandidateName": "JACKIE ROBINSON",
       "CandidateParty": "R"
     },
     {
       "CandidateCode": "5",
-      "CandidateName": "BENJAMIN FRANKLIN",
+      "CandidateName": "CALVIN COOLIDGE",
       "CandidateParty": "D"
     },
     {
       "CandidateCode": "6",
-      "CandidateName": "BENJAMIN FRANKLIN",
-      "CandidateParty": "S"
+      "CandidateName": "JOHN F. KENNEDY",
+      "CandidateParty": "D"
     }
   ]
 }
